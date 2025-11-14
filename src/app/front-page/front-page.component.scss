@@ -1,0 +1,33 @@
+.main_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main_money_size {
+  font-size: 30px;
+}
+.sales_input_description{
+  display: flex;
+  flex-direction: column;
+}
+.sales_input_amount{
+  display: flex;
+  flex-direction: column;
+  width: 90px;
+  margin-right: 30px;
+}
+.input_mother{
+  display: flex;
+  flex-direction: row;
+}
+.text_area_size{
+  width: 200px;
+  height: 100px;
+}
+.button_submit{
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  width: 90px;
+  height: 50px;
+}
