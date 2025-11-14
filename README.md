@@ -1,6 +1,6 @@
 # ProfitTracker
 
-install node
+install node https://v18.angular.dev/reference/versions
 
 npm install
 
